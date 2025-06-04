@@ -108,7 +108,14 @@ dev_dependencies:
 
 ## 📸 Screenshots
 
-> *(Add `.png` or `.gif` screenshots here)*
+![Screenshot Description](screenshot/s1.jpg)   
+![Screenshot Description](screenshot/s2.jpg)
+![Screenshot Description](screenshot/s3.png)
+![Screenshot Description](screenshot/s4.jpg)
+![Screenshot Description](screenshot/s6.jpg)
+![Screenshot Description](screenshot/s8.jpg)
+![Screenshot Description](screenshot/s9.png)
+![Screenshot Description](screenshot/s10.png)
 
 ---
 
