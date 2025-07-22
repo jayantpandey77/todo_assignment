@@ -108,10 +108,10 @@ dev_dependencies:
 
 ## 📸 Screenshots
 
-![Screenshot Description](screenshot/s1.png)
-![Screenshot Description](screenshot/s2.png)
-![Screenshot Description](screenshot/s3.png)
-![Screenshot Description](screenshot/s4.png)
+![Screenshot Description](s1.png)
+![Screenshot Description](s2.png)
+![Screenshot Description](s3.png)
+![Screenshot Description](s4.png)
 
 ---
 
